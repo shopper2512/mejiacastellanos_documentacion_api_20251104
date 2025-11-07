@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'L5 Swagger UI',
+                'title' => 'Victor Andy Mejia Castellanos',
             ],
 
             'routes' => [
@@ -44,6 +44,7 @@ return [
                  * Absolute paths to directory containing the swagger annotations are stored.
                  */
                 'annotations' => [
+                    //base_path('app/Api/')
                     base_path('app'),
                 ],
             ],
